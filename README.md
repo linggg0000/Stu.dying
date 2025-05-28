@@ -1,8 +1,5 @@
 # Stu.dying - Interactive Study Management System
 
-## Demo video
-[Add your demo video link here]
-
 ## 📌 Overview
 
 Stu.dying is an interactive desktop application designed to enhance study productivity by combining time management tools with an engaging interface. It helps users maintain focus during study sessions while tracking their progress through various integrated features.
